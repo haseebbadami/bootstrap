@@ -1,0 +1,92 @@
+.top-bar {
+	background-color: #00003f;
+	padding: 10px;
+}
+.navbar-nav  li{
+	padding-left:  5px;
+}
+.needs-validation{
+
+	background:  #2B3856;
+}
+
+.cont{
+	overflow: hidden;
+	position: relative;
+	width: 100% ;
+	height: 200px;
+	background: #2B3856;
+}
+form{
+	color: #ff;
+}
+.row h1 {
+	color: #fff;
+	text-decoration: underline;
+}
+}
+.form-inline input{
+	width: 500px;
+	padding: 10px;
+
+}
+.form-inline button{
+	width: 100px;
+	padding: 5px;
+	border-top: transparent;
+	background: skyblue;
+}
+.box{
+	
+	width: 100%;
+	height: 60vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: black;
+    
+}
+.box1{
+	color: black;
+	font-family: 'Pangolin', cursive;
+	width: 50%;
+	height: 30vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #fff;
+    font-family: 'Lobster', cursive;
+}
+.content{
+	 position: absolut; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background:  #2B3856; /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 50%; /* Full width */
+  padding: 10px; /* Some padding */
+}
+.boxer{
+	width: 100%;
+	height: 30vh;
+	font-family: 'Pangolin', cursive;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: #45b3e0;
+    
+}
+.boxing{
+	
+	width: 100%;
+	height: 40vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: black;
+    
+}
+.container body{
+display: none;
+}
